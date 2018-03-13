@@ -1,0 +1,18 @@
+{
+  "parent": "PAR_ID",    
+  "environment_trumps": false,
+  "name": "Compliance Group",
+  "rule": [
+    "or",
+    [
+      "=",
+      "name",
+      "PEAGENT"
+    ]
+  ],
+  "variables": {},
+  "environment": "production",
+  "classes": {
+    "web": {}
+  }
+}

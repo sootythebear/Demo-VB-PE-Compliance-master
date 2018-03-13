@@ -1,0 +1,5 @@
+
+
+#### /etc/hosts entries for Puppet Enterprise solution
+172.28.128.8	demopuppetmaster.local.net	demopuppetmaster
+172.28.128.9	demopuppetagent.local.net	demopuppetagent
